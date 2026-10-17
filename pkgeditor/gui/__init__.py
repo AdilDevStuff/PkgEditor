@@ -1,0 +1,3 @@
+"""
+PkgEditor GUI components.
+"""

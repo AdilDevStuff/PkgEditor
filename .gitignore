@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PlayStation packages & keys
+*.pkg
+*.pfs
+*.dat
+keydb.json
